@@ -2,3 +2,14 @@ body {
   background-color: #2f422f;
   color: #a4814f;
 }
+
+.collection {
+  background-color: #a4814f;
+  color: white;
+  border-radius: 15px;
+}
+
+.row {
+  margin-bottom: 0;
+  height: 2.5rem;
+}
